@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: The Strauss' index page
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,34 +58,38 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Strauss"
+  avatar : "/assets/images/stss-photo.png"
+  bio    : "Computer Engineer (B.Sc.). Master of Electronic and Computer Engineering (M.Sc.) ITA - Brazilian Aeronautics Institute of Technology."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://stra-uss.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/stra-uss"
+    - label: "Kaggle"
+      icon: ""
+      url: "https://www.kaggle.com/strausswedgeoak"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/stra-uss"
+  # - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
 
 defaults:
   # _posts
