@@ -36,7 +36,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 
 - Teste
-![Apache Superset](../assets/images/rta/apache-superset-sales.png)
+![Apache Superset](./assets/images/rta/apache-superset-sales.png)
 
 
 - Teste
