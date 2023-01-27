@@ -14,18 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-header:
-  image: /assets/images/cta_trees.jpg
-
-
 title: The Strauss' index page
-email:
+email: strausswedgeoak@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  A Science Research blog and practical implementations of themes about Computer Science like as Artificial Intelligence, 
+  Data Engineering and Software Development.
+#twitter_username: username
+github_username: stra-uss
 minimal_mistakes_skin: default
 search: true
 
@@ -34,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -66,6 +61,7 @@ author:
   name   : "Strauss"
   avatar : "/assets/images/stss-photo.png"
   bio    : "Computer Engineer (B.Sc.). Master of Electronic and Computer Engineering (M.Sc.) ITA - Brazilian Aeronautics Institute of Technology."
+  location: "São José dos Campos - SP, Brazil (on a Pale Blue Dot)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -178,3 +174,5 @@ data-engineering-archive:
   type: liquid
   path: /data-engineering/
 
+header:
+  image: /assets/images/cta_trees.jpg
