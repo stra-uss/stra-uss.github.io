@@ -27,6 +27,7 @@ tags:
 {% include figure image_path="/assets/images/rta/apache-superset-sales.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
+$$ f(a) = \frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z-a} dz $$
 
 
 

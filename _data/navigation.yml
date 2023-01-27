@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  #- title: "Posts"
+  #  url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
@@ -9,14 +9,14 @@ main:
     url: /about/
   - title: "Data Engineering"
     url: /data-engineering/
-  - title: Getting Started
+  - title: "Getting Started"
     url: /posts/
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: /posts/quick-start-guide/
       - title: "Structure"
-        url: /docs/structure/
+        url: /posts/structure/
       - title: "Installation"
-        url: /docs/installation/
+        url: /posts/installation/
       - title: "Upgrading"
-        url: /docs/upgrading
+        url: /posts/upgrading
