@@ -1,9 +1,9 @@
 ---
 permalink: /science-research-publications/
-title: "Science Research Publications"
+# title: "Science Research Publications"
 ---
 
-### Science Research Publications
+#### Science Research Publications
 
 | UFRG             | Universidade Federal                                                                      |
 |------------------|----------------------------------------------------------------------------------------------------------------|
