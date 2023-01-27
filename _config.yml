@@ -63,7 +63,7 @@ author:
   bio    : "Computer Engineer (B.Sc.). Master of Electronic and Computer Engineering (M.Sc.) ITA - Brazilian Aeronautics Institute of Technology."
   links:
     - label: "Website"
-      icon: "fab fa-sharp fa-solid fa-blog"
+      icon: "fab fa-blog"
       url: "https://stra-uss.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +78,7 @@ author:
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Strauss-Carvalho"
     - label: "Lattes"
-      icon: "fab fa-solid fa-atom-simple"
+      icon: "fab fa-atom-simple"
       url: "http://lattes.cnpq.br/4915404310911390"
     - label: "OrcId"
       icon: "fab fa-brands fa-orcid"
@@ -98,7 +98,7 @@ author:
 footer:
   links:
     - label: "Website"
-      icon: "fab fa-sharp fa-solid fa-blog"
+      icon: "fab fa-blog"
       url: "https://stra-uss.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -113,7 +113,7 @@ footer:
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Strauss-Carvalho"
     - label: "Lattes"
-      icon: "fab fa-solid fa-atom-simple"
+      icon: "fab fa-atom-simple"
       url: "http://lattes.cnpq.br/4915404310911390"
     - label: "OrcId"
       icon: "fab fa-brands fa-orcid"
@@ -151,7 +151,7 @@ defaults:
 
   # _data-engineering
   - scope:
-      path: "_data-engineering"
+      path: ""
       type: data-engineering
     values:
       layout: single
@@ -164,6 +164,12 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
+
+data-engineering-archive:
+  type: liquid
+  path: /data-engineering/
+
