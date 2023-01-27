@@ -78,13 +78,13 @@ author:
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Strauss-Carvalho"
     - label: "Lattes"
-      icon: "fab fa-thin fa-atom-simple"
+      icon: "fab fa-solid fa-atom-simple"
       url: "http://lattes.cnpq.br/4915404310911390"
     - label: "OrcId"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/"
     - label: "e-Mail"
-      icon: "fab fa-sharp fa-solid fa-envelope-circle-check"
+      icon: "fas fa-envelope"
       url: "strausswedgeoak@outlook.com"
 
 
@@ -97,7 +97,9 @@ author:
 
 footer:
   links:
-
+    - label: "Website"
+      icon: "fab fa-sharp fa-solid fa-blog"
+      url: "https://stra-uss.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stra-uss"
@@ -105,8 +107,20 @@ footer:
       icon: "fab fa-linkedin fa-fw"
       url: "https://www.linkedin.com/in/strauss-cunha-carvalho-1a601a15/"
     - label: "kaggle"
-      icon: "fab fa-kaggle fa-2x"
+      icon: "fab fa-brands fa-kaggle"
       url: "https://www.kaggle.com/strausswedgeoak"
+    - label: "Research Gate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Strauss-Carvalho"
+    - label: "Lattes"
+      icon: "fab fa-solid fa-atom-simple"
+      url: "http://lattes.cnpq.br/4915404310911390"
+    - label: "OrcId"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/"
+    - label: "e-Mail"
+      icon: "fas fa-envelope"
+      url: "strausswedgeoak@outlook.com"
 
   # - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
@@ -134,6 +148,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _data-engineering
+  - scope:
+      path: "_data-engineering"
+      type: data-engineering
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
