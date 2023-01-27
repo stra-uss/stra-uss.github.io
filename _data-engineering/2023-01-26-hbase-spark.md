@@ -9,6 +9,3 @@ tags:
   - Apache Hbase
   - NoSQL Databases
 ---
-
-### Apache Hbase
-
