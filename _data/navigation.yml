@@ -1,5 +1,5 @@
 main:
-  - title: "Science Research"
+  - title: "Science"
     url: /science-research-publications/
   - title: "Portfolio"
     url: /portfolio/
@@ -7,12 +7,12 @@ main:
     url: /certifications/
   - title: "Awards "
     url: /awards/
-  - title: "Post theme"
+  - title: "Themes"
     url: /categories/
-  - title: "Posts timeline "
-    url: /posts/
-  - title: "Post tags"
+  - title: "Tags"
     url: /tags/
+  - title: "Timeline "
+    url: /posts/
   - title: "About"
     url: /about/
 
