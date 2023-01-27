@@ -24,6 +24,9 @@ tags:
 ![Trees](../assets/images/cta_trees.jpg)
 
 
+{% include figure image_path="/assets/images/rta/apache-superset-sales.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+
+
 
 
 
