@@ -1,22 +1,18 @@
 main:
-  #- title: "Posts"
-  #  url: /posts/
-  - title: "Categories"
+  - title: "Science Research"
+    url: /science-research-publications/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Awards "
+    url: /awards/
+  - title: "Post theme"
     url: /categories/
-  - title: "Tags"
+  - title: "Posts timeline "
+    url: /posts/
+  - title: "Post tags"
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Data Engineering"
-    url: /data-engineering/
-  - title: "Getting Started"
-    url: /posts/
-    children:
-      - title: "Quick-Start Guide"
-        url: /posts/quick-start-guide/
-      - title: "Structure"
-        url: /posts/structure/
-      - title: "Installation"
-        url: /posts/installation/
-      - title: "Upgrading"
-        url: /posts/upgrading
+
