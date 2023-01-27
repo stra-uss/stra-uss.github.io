@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Notice"
 categories:
   - Blog
 tags:

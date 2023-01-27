@@ -1,12 +1,6 @@
 ---
 permalink: /science-research-publications/
 # title: "Science Research Publications"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/splash/code.png
-  actions:
-    - label: ""
 ---
 
 #### Science Research Publications

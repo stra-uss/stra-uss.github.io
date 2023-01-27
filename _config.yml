@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Strauss' index page
+# title: The Strauss' index page
 email: strausswedgeoak@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Science Research blog and practical implementations of themes about Computer Science like as Artificial Intelligence, 
@@ -39,6 +39,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mermaid: true
 
 teaser: /assets/splash/cta_trees.jpg
+
 
 include:
   - _pages
