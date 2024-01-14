@@ -4,9 +4,11 @@ permalink: /certifications/
 ---
 
 #### __Certifications__
+##### Data Scientist [Certificate](./assets/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
+###### [Certificate](./assets/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
 
 ```python
-##### Data Scientist
+
       - Duration: 482 hours
       - Organization: Data Science Academy  
       - Conclusion: 2023-11-29
@@ -18,4 +20,5 @@ permalink: /certifications/
           - Big Data Real-Time Analytics with Pyspark
           - Data Visualizations and Dashboards
 ```
-###### [Certificate](#./assets/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
+
+###### [Certificate](./assets/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
