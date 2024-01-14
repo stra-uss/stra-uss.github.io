@@ -5,9 +5,10 @@ permalink: /certifications/
 
 #### __Certifications__
 * * *
+
 ##### Data Scientist
-###### Data Science Academy
       - Duration: 482 hours
+      - Organization: Data Science Academy  
       - Conclusion: 2023-11-29
       - Topics:
           - Big Data Analytics with Microsoft Azure Machine Learning
