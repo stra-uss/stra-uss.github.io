@@ -4,7 +4,7 @@ permalink: /certifications/
 ---
 
 #### __Certifications__
-##### Data Scientist [Certificate](./assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
+##### Data Scientist [Certificate](../assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
 
 ```
       - Duration: 482 hours
