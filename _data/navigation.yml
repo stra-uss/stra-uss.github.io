@@ -5,6 +5,8 @@ main:
     url: /science-research-publications/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Education"
+    url: /education/
   - title: "Certifications"
     url: /certifications/
   - title: "Awards "
