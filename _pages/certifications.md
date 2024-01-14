@@ -7,8 +7,7 @@ permalink: /certifications/
 ##### Data Scientist [Certificate](./assets/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
 ###### [Certificate](./assets/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
 
-```python
-
+```
       - Duration: 482 hours
       - Organization: Data Science Academy  
       - Conclusion: 2023-11-29
