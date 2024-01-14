@@ -4,7 +4,7 @@ permalink: /certifications/
 ---
 
 #### __Certifications__
-##### Data Scientist [Certificate](../assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
+      - __Data Scientist__ [Certificate](https://github.com/stra-uss/stra-uss.github.io/blob/master/assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
 
 ```
       - Duration: 482 hours
