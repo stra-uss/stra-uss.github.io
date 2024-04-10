@@ -6,9 +6,7 @@ permalink: /awards/
 
 - 1 
 
-
 <a href="#" class="btn--success">Success Button</a>
-
 
 <a href="#" class="btn--success">Success Button</a>
 
