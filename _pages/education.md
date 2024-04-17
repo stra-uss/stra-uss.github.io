@@ -4,8 +4,11 @@ permalink: /education/
 ---
 
 ##### __Education__
-
 - ##### ITA - Brazilian Aeronautics Institute of Technology
-  `2024 year`
-  - CE-240 - Database Systems Design  
-    -  [First Semester Proof](https://stra-uss.github.io/assets/ce-240-projeto-de-sistemas-de-banco-de-dados-prova-01.pdf)
+  - `2024 first half-year`
+    - CE-240 - Database Systems Design
+      - [Listex 01](https://stra-uss.github.io/assets/ita/ce-240/listex01.pdf)
+      - [Listex 02](https://stra-uss.github.io/assets/ita/ce-240/listex02.pdf)
+      - [Listex 03](https://stra-uss.github.io/assets/ita/ce-240/listex03.pdf)
+      - [First Bimester Proof](https://stra-uss.github.io/assets/ce-240-projeto-de-sistemas-de-banco-de-dados-prova-01.pdf)
+---
