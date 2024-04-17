@@ -1,3 +1,12 @@
+---
+permalink: /education/
+# title: "Education"
+---
+
+#### __Education__
+###### __Data Scientist__ 
+
+
 - #### ITA
   - CE-240 - Projeto de Sistemas de Banco de Dados   
     -  [Prova Primeiro Bimestre](https://stra-uss.github.io/assets/ce-240-projeto-de-sistemas-de-banco-de-dados-prova-01.pdf)
