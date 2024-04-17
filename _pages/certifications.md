@@ -18,3 +18,10 @@ permalink: /certifications/
 [Certificate](https://stra-uss.github.io/assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
 
 ---
+
+###### __2) Big Data__ 
+```
+- Organization: ITA - Aeronautics Institute of Technology  - Duration: 32 hours     
+- Conclusion: 2016-06-01
+- Big Data
+```
