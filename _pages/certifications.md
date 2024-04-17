@@ -7,14 +7,12 @@ permalink: /certifications/
 ###### __Data Scientist__ 
 
 ```
-- Organization: Data Science Academy  
-- Duration: 482 hours     
+- Organization: Data Science Academy  - Duration: 482 hours     
 - Conclusion: 2023-11-29
 - Machine Learning     
 - Big Data Analytics   - Microsoft Azure Machine Learning
 - Business Analytics   - Data Visualizations and Dashboards
 - Big Data Real-Time Analytics with Pyspark
 - Data Engineering with Hadoop and Spark
-
 ```
 [Certificate](https://stra-uss.github.io/assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
