@@ -4,7 +4,7 @@ permalink: /certifications/
 ---
 
 #### __Certifications__
-###### __Data Scientist__ 
+###### __1) Data Scientist__ 
 
 ```
 - Organization: Data Science Academy  - Duration: 482 hours     
@@ -16,3 +16,5 @@ permalink: /certifications/
 - Data Engineering with Hadoop and Spark
 ```
 [Certificate](https://stra-uss.github.io/assets/certificates/dsa-certificado-formacao-cientista-de-dados-20231129.pdf){: .btn .btn--info}
+
+---
