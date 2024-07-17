@@ -18,7 +18,21 @@ https://github.com/stra-uss/pub-dev-snippets/blob/c9f85d38c5a8066cb90a9d93a3afcd
 import sys
 ```
 
+<pre>
+    <code>
+        {% include https://github.com/stra-uss/pub-dev-snippets/blob/c9f85d38c5a8066cb90a9d93a3afcda3a60d1b53/database/duckdb.en.md %}
+    </code>
+</pre>
+
+
+
+<pre>
+    <code>
+        {% include samples/trafikito.html %}
+    </code>
+</pre>
+
 <!-- embedme path/to/your/file.txt -->
 
 
-<!-- embedme path/to/your/file.txt](https://github.com/stra-uss/pub-dev-snippets/blob/c9f85d38c5a8066cb90a9d93a3afcda3a60d1b53/database/duckdb.en.md -->
+<!-- embedme https://github.com/stra-uss/pub-dev-snippets/blob/c9f85d38c5a8066cb90a9d93a3afcda3a60d1b53/database/duckdb.en.md -->
