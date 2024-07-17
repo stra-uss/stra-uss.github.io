@@ -7,3 +7,6 @@ tags:
   - Jekyll
   - update
 ---
+
+- DuckDB
+https://github.com/stra-uss/pub-dev-snippets/blob/main/database/duckdb.en.md
