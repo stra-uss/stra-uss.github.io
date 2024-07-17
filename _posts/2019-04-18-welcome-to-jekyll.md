@@ -16,6 +16,9 @@ https://github.com/stra-uss/pub-dev-snippets/blob/c9f85d38c5a8066cb90a9d93a3afcd
 
 
 
+<script src="https://gist.github.com/stra-uss/f0ba27058beccdb6b33b83a83ca1b5b0.js"></script>
+
+
 <div class="aside">
 <h2>My heading</h2>
 <p>Some text, some text, some more text.</p>
