@@ -150,6 +150,7 @@ defaults:
       comments: true
       share: true
       related: true
+      full-width: true
 
   # _pages
   - scope:
