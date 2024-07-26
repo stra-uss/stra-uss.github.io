@@ -1,5 +1,5 @@
 ---
-title: "Reading a public and private dataset from Hugging Face, using a DuckDB query engine"
+title: "Reading datasets from Hugging Face using a DuckDB query engine"
 date: 2024-07-19T16:45:02-02:00
 categories:
   - blog
