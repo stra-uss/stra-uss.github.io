@@ -1,8 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// @import "{{ site.theme }}";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin before the minimal-mistakes
 
 .inner {
-  max-width: 90%;
+  max-width: 100%;
 }
