@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb31914123e0e2837aeda75639bddca7",
+    "revision": "93476337aed7c705fc3d7b0f9b829af2",
     "url": "/index.html"
   },
   {
-    "revision": "df6380416848661a4ca6",
+    "revision": "03eb86c5ca9c05aea8fe",
     "url": "/static/css/main.37f7feb6.chunk.css"
   },
   {
-    "revision": "da9e6ed89c17411f6ce7",
-    "url": "/static/js/2.3b10e91e.chunk.js"
+    "revision": "7eb5c18b2793e3499d3d",
+    "url": "/static/js/2.d0c1f1b6.chunk.js"
   },
   {
-    "revision": "df6380416848661a4ca6",
-    "url": "/static/js/main.62294543.chunk.js"
+    "revision": "03eb86c5ca9c05aea8fe",
+    "url": "/static/js/main.3b55dd2c.chunk.js"
   },
   {
     "revision": "188934486ca763f686b2",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animated_logo.dcd6dee2.svg"
   },
   {
+    "revision": "2c0e3f6fe3790b3aa22b59d2315126d5",
+    "url": "/static/media/biochimico-industria-farmaceutica.2c0e3f6f.jpg"
+  },
+  {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/static/media/blogs_image.058eca4c.svg"
   },
@@ -86,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "/static/media/developerActivity.3e23ca14.svg"
+  },
+  {
+    "revision": "686d5d7dd2b2e9c0e058848105ff8856",
+    "url": "/static/media/dsa_logo.686d5d7d.png"
   },
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
@@ -158,6 +166,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
+  },
+  {
+    "revision": "351080c365b4d7b6aa79d47a6bab01e9",
+    "url": "/static/media/fcmf_logo.351080c3.png"
   },
   {
     "revision": "2936ce95f550e3feef7230ea543a4b60",
@@ -240,10 +252,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/research.724c5d75.jpg"
   },
   {
-    "revision": "4360a737fcc9dfd0a2929ac3b9f0c9eb",
-    "url": "/static/media/serpro_logo.4360a737.png"
-  },
-  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/static/media/stanford_logo.2c497738.png"
   },
@@ -260,7 +268,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tiktok_logo.0993e324.png"
   },
   {
+    "revision": "671cece09555948c7426722329e4937a",
+    "url": "/static/media/ubm_logo.671cece0.png"
+  },
+  {
+    "revision": "3f8e2f275256f4b1192bf792aa40ab67",
+    "url": "/static/media/uff_logo.3f8e2f27.png"
+  },
+  {
+    "revision": "e38be62f2071ddabb97d14ba699ca618",
+    "url": "/static/media/ufrgs_logo.e38be62f.jpg"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "3da358984abf52134de43c62c0f57a1e",
+    "url": "/static/media/work_research.3da35898.jpg"
   }
 ]);

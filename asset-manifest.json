@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.37f7feb6.chunk.css",
-    "main.js": "/static/js/main.62294543.chunk.js",
-    "main.js.map": "/static/js/main.62294543.chunk.js.map",
+    "main.js": "/static/js/main.3b55dd2c.chunk.js",
+    "main.js.map": "/static/js/main.3b55dd2c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58b5d89d.js",
     "runtime-main.js.map": "/static/js/runtime-main.58b5d89d.js.map",
-    "static/js/2.3b10e91e.chunk.js": "/static/js/2.3b10e91e.chunk.js",
-    "static/js/2.3b10e91e.chunk.js.map": "/static/js/2.3b10e91e.chunk.js.map",
+    "static/js/2.d0c1f1b6.chunk.js": "/static/js/2.d0c1f1b6.chunk.js",
+    "static/js/2.d0c1f1b6.chunk.js.map": "/static/js/2.d0c1f1b6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9b985883e9b3030c8cdcf285543c3cd0.js": "/precache-manifest.9b985883e9b3030c8cdcf285543c3cd0.js",
+    "precache-manifest.ad4bfd0de31a3fad62e50e8d3af9e971.js": "/precache-manifest.ad4bfd0de31a3fad62e50e8d3af9e971.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.37f7feb6.chunk.css.map": "/static/css/main.37f7feb6.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/biochimico-industria-farmaceutica.jpg": "/static/media/biochimico-industria-farmaceutica.2c0e3f6f.jpg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
@@ -21,10 +22,12 @@
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
+    "static/media/dsa_logo.png": "/static/media/dsa_logo.686d5d7d.png",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/fcmf_logo.png": "/static/media/fcmf_logo.351080c3.png",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
@@ -45,17 +48,20 @@
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
     "static/media/research.jpg": "/static/media/research.724c5d75.jpg",
-    "static/media/serpro_logo.png": "/static/media/serpro_logo.4360a737.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
+    "static/media/ubm_logo.png": "/static/media/ubm_logo.671cece0.png",
+    "static/media/uff_logo.png": "/static/media/uff_logo.3f8e2f27.png",
+    "static/media/ufrgs_logo.jpg": "/static/media/ufrgs_logo.e38be62f.jpg",
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
+    "static/media/work_research.jpg": "/static/media/work_research.3da35898.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.58b5d89d.js",
-    "static/js/2.3b10e91e.chunk.js",
+    "static/js/2.d0c1f1b6.chunk.js",
     "static/css/main.37f7feb6.chunk.css",
-    "static/js/main.62294543.chunk.js"
+    "static/js/main.3b55dd2c.chunk.js"
   ]
 }
