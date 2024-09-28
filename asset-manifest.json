@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.37f7feb6.chunk.css",
-    "main.js": "/static/js/main.8e3ad1e6.chunk.js",
-    "main.js.map": "/static/js/main.8e3ad1e6.chunk.js.map",
+    "main.js": "/static/js/main.62294543.chunk.js",
+    "main.js.map": "/static/js/main.62294543.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58b5d89d.js",
     "runtime-main.js.map": "/static/js/runtime-main.58b5d89d.js.map",
-    "static/js/2.a9d15828.chunk.js": "/static/js/2.a9d15828.chunk.js",
-    "static/js/2.a9d15828.chunk.js.map": "/static/js/2.a9d15828.chunk.js.map",
+    "static/js/2.3b10e91e.chunk.js": "/static/js/2.3b10e91e.chunk.js",
+    "static/js/2.3b10e91e.chunk.js.map": "/static/js/2.3b10e91e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.28b0c4e634f777be89938ab851191467.js": "/precache-manifest.28b0c4e634f777be89938ab851191467.js",
+    "precache-manifest.9b985883e9b3030c8cdcf285543c3cd0.js": "/precache-manifest.9b985883e9b3030c8cdcf285543c3cd0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.37f7feb6.chunk.css.map": "/static/css/main.37f7feb6.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
@@ -45,6 +44,8 @@
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
+    "static/media/research.jpg": "/static/media/research.724c5d75.jpg",
+    "static/media/serpro_logo.png": "/static/media/serpro_logo.4360a737.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
@@ -53,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.58b5d89d.js",
-    "static/js/2.a9d15828.chunk.js",
+    "static/js/2.3b10e91e.chunk.js",
     "static/css/main.37f7feb6.chunk.css",
-    "static/js/main.8e3ad1e6.chunk.js"
+    "static/js/main.62294543.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d811829a0e6d1a945d3470cd3751e29e",
+    "revision": "bb31914123e0e2837aeda75639bddca7",
     "url": "/index.html"
   },
   {
-    "revision": "7e40856cf6823debbc60",
+    "revision": "df6380416848661a4ca6",
     "url": "/static/css/main.37f7feb6.chunk.css"
   },
   {
-    "revision": "6412c104219b4b788356",
-    "url": "/static/js/2.a9d15828.chunk.js"
+    "revision": "da9e6ed89c17411f6ce7",
+    "url": "/static/js/2.3b10e91e.chunk.js"
   },
   {
-    "revision": "7e40856cf6823debbc60",
-    "url": "/static/js/main.8e3ad1e6.chunk.js"
+    "revision": "df6380416848661a4ca6",
+    "url": "/static/js/main.62294543.chunk.js"
   },
   {
     "revision": "188934486ca763f686b2",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
-  },
-  {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -238,6 +234,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "724c5d75a52a77164cf2700c5fb51f30",
+    "url": "/static/media/research.724c5d75.jpg"
+  },
+  {
+    "revision": "4360a737fcc9dfd0a2929ac3b9f0c9eb",
+    "url": "/static/media/serpro_logo.4360a737.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
