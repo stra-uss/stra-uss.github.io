@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93476337aed7c705fc3d7b0f9b829af2",
+    "revision": "973d8af148fb252f53426044381433f6",
     "url": "/index.html"
   },
   {
-    "revision": "03eb86c5ca9c05aea8fe",
+    "revision": "4b2b3ee98bca22c30a77",
     "url": "/static/css/main.37f7feb6.chunk.css"
   },
   {
-    "revision": "7eb5c18b2793e3499d3d",
-    "url": "/static/js/2.d0c1f1b6.chunk.js"
+    "revision": "652ad8eb0a92d69610d3",
+    "url": "/static/js/2.7289aa8a.chunk.js"
   },
   {
-    "revision": "03eb86c5ca9c05aea8fe",
-    "url": "/static/js/main.3b55dd2c.chunk.js"
+    "revision": "4b2b3ee98bca22c30a77",
+    "url": "/static/js/main.9c3edc56.chunk.js"
   },
   {
     "revision": "188934486ca763f686b2",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blogs_image.058eca4c.svg"
   },
   {
+    "revision": "f006a0bf97f24a56b525c82eeb080332",
+    "url": "/static/media/brain.f006a0bf.jpg"
+  },
+  {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
     "url": "/static/media/cloud_infrastructure.cacbc42b.svg"
   },
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "/static/media/contactMail.5f915405.png"
+  },
+  {
+    "revision": "e42f8e14c902a3d041ebbef844bcb9f9",
+    "url": "/static/media/data_enegineering4.e42f8e14.jpg"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
@@ -168,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "351080c365b4d7b6aa79d47a6bab01e9",
-    "url": "/static/media/fcmf_logo.351080c3.png"
+    "revision": "0598fc8b1294aa80411d0f1007764ee0",
+    "url": "/static/media/fcmf_logo.0598fc8b.png"
   },
   {
     "revision": "2936ce95f550e3feef7230ea543a4b60",
@@ -196,6 +204,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "31fcdef3fb880ed52ef5d179585b7476",
+    "url": "/static/media/ia_logo.31fcdef3.jpg"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/static/media/ibm_logo.d3fccbe1.png"
   },
@@ -206,6 +218,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "6529a1561080b45a3772b508cc0c198a",
+    "url": "/static/media/ita_logo.6529a156.png"
   },
   {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
@@ -286,5 +302,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3da358984abf52134de43c62c0f57a1e",
     "url": "/static/media/work_research.3da35898.jpg"
+  },
+  {
+    "revision": "1637f69b3b990c7451f7bbf686a910f8",
+    "url": "/static/media/xr_logo.1637f69b.jpg"
   }
 ]);

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.37f7feb6.chunk.css",
-    "main.js": "/static/js/main.3b55dd2c.chunk.js",
-    "main.js.map": "/static/js/main.3b55dd2c.chunk.js.map",
+    "main.js": "/static/js/main.9c3edc56.chunk.js",
+    "main.js.map": "/static/js/main.9c3edc56.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58b5d89d.js",
     "runtime-main.js.map": "/static/js/runtime-main.58b5d89d.js.map",
-    "static/js/2.d0c1f1b6.chunk.js": "/static/js/2.d0c1f1b6.chunk.js",
-    "static/js/2.d0c1f1b6.chunk.js.map": "/static/js/2.d0c1f1b6.chunk.js.map",
+    "static/js/2.7289aa8a.chunk.js": "/static/js/2.7289aa8a.chunk.js",
+    "static/js/2.7289aa8a.chunk.js.map": "/static/js/2.7289aa8a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ad4bfd0de31a3fad62e50e8d3af9e971.js": "/precache-manifest.ad4bfd0de31a3fad62e50e8d3af9e971.js",
+    "precache-manifest.81943ee72e5c494588e67282c387f1eb.js": "/precache-manifest.81943ee72e5c494588e67282c387f1eb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.37f7feb6.chunk.css.map": "/static/css/main.37f7feb6.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -16,9 +16,11 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/biochimico-industria-farmaceutica.jpg": "/static/media/biochimico-industria-farmaceutica.2c0e3f6f.jpg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
+    "static/media/brain.jpg": "/static/media/brain.f006a0bf.jpg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
+    "static/media/data_enegineering4.jpg": "/static/media/data_enegineering4.e42f8e14.jpg",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
@@ -27,16 +29,18 @@
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/fcmf_logo.png": "/static/media/fcmf_logo.351080c3.png",
+    "static/media/fcmf_logo.png": "/static/media/fcmf_logo.0598fc8b.png",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/ia_logo.jpg": "/static/media/ia_logo.31fcdef3.jpg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/ita_logo.png": "/static/media/ita_logo.6529a156.png",
     "static/media/iu_logo.png": "/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
@@ -56,12 +60,13 @@
     "static/media/uff_logo.png": "/static/media/uff_logo.3f8e2f27.png",
     "static/media/ufrgs_logo.jpg": "/static/media/ufrgs_logo.e38be62f.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
-    "static/media/work_research.jpg": "/static/media/work_research.3da35898.jpg"
+    "static/media/work_research.jpg": "/static/media/work_research.3da35898.jpg",
+    "static/media/xr_logo.jpg": "/static/media/xr_logo.1637f69b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.58b5d89d.js",
-    "static/js/2.d0c1f1b6.chunk.js",
+    "static/js/2.7289aa8a.chunk.js",
     "static/css/main.37f7feb6.chunk.css",
-    "static/js/main.3b55dd2c.chunk.js"
+    "static/js/main.9c3edc56.chunk.js"
   ]
 }
