@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71e6501730dc58e205a96e589825f475",
+    "revision": "52b48de582192cf1dfc6b598c467653e",
     "url": "/index.html"
   },
   {
-    "revision": "79502024b08b02335e43",
+    "revision": "858b9dc3138da09378e6",
     "url": "/static/css/main.70cedd6f.chunk.css"
   },
   {
-    "revision": "1d6f3483cb4f881c4d5c",
-    "url": "/static/js/2.be0cf5b0.chunk.js"
+    "revision": "7b49fe8a95a6607e8e87",
+    "url": "/static/js/2.19b49a51.chunk.js"
   },
   {
-    "revision": "79502024b08b02335e43",
-    "url": "/static/js/main.1fe6a076.chunk.js"
+    "revision": "858b9dc3138da09378e6",
+    "url": "/static/js/main.cda464ed.chunk.js"
   },
   {
     "revision": "188934486ca763f686b2",
@@ -58,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8f57955368324e8db7411ee6759f99dc",
     "url": "/static/media/ai-generated-8579960.8f579553.svg"
-  },
-  {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -332,8 +328,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tiktok_logo.0993e324.png"
   },
   {
-    "revision": "671cece09555948c7426722329e4937a",
-    "url": "/static/media/ubm_logo.671cece0.png"
+    "revision": "cd9f507db83262b96b14f2173227e215",
+    "url": "/static/media/ubm_logo.cd9f507d.png"
   },
   {
     "revision": "3f8e2f275256f4b1192bf792aa40ab67",
@@ -348,8 +344,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ui_ux_design.d6363089.svg"
   },
   {
-    "revision": "3da358984abf52134de43c62c0f57a1e",
-    "url": "/static/media/work_research.3da35898.jpg"
+    "revision": "0290c700276b8f0f3048ba7879ff9417",
+    "url": "/static/media/work_research.0290c700.jpg"
   },
   {
     "revision": "1637f69b3b990c7451f7bbf686a910f8",
