@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.37f7feb6.chunk.css",
-    "main.js": "/static/js/main.0181574f.chunk.js",
-    "main.js.map": "/static/js/main.0181574f.chunk.js.map",
+    "main.js": "/static/js/main.0d20c643.chunk.js",
+    "main.js.map": "/static/js/main.0d20c643.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58b5d89d.js",
     "runtime-main.js.map": "/static/js/runtime-main.58b5d89d.js.map",
     "static/js/2.e397028e.chunk.js": "/static/js/2.e397028e.chunk.js",
     "static/js/2.e397028e.chunk.js.map": "/static/js/2.e397028e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.19b715c4f839a179e666d399465c8000.js": "/precache-manifest.19b715c4f839a179e666d399465c8000.js",
+    "precache-manifest.41f7daaaf3c8d7b195cab4b141396b5f.js": "/precache-manifest.41f7daaaf3c8d7b195cab4b141396b5f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.37f7feb6.chunk.css.map": "/static/css/main.37f7feb6.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -29,7 +29,7 @@
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/fcmf_logo.png": "/static/media/fcmf_logo.351080c3.png",
+    "static/media/fcmf_logo.png": "/static/media/fcmf_logo.0598fc8b.png",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
@@ -58,6 +58,7 @@
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
     "static/media/ubm_logo.png": "/static/media/ubm_logo.671cece0.png",
     "static/media/uff_logo.png": "/static/media/uff_logo.3f8e2f27.png",
+    "static/media/ufrgs_logo.png": "/static/media/ufrgs_logo.3a0fd67b.png",
     "static/media/ufrgs_logo.jpg": "/static/media/ufrgs_logo.e38be62f.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
     "static/media/work_research.jpg": "/static/media/work_research.3da35898.jpg",
@@ -67,6 +68,6 @@
     "static/js/runtime-main.58b5d89d.js",
     "static/js/2.e397028e.chunk.js",
     "static/css/main.37f7feb6.chunk.css",
-    "static/js/main.0181574f.chunk.js"
+    "static/js/main.0d20c643.chunk.js"
   ]
 }

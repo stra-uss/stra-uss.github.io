@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94e441506077a84e029cc797766e0ebe",
+    "revision": "664e53e6a77fb853bde5ed957ba15d3f",
     "url": "/index.html"
   },
   {
-    "revision": "d6943a2a0ae9c28c9bcd",
+    "revision": "7755e3642ea3b6c3f8f1",
     "url": "/static/css/main.37f7feb6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e397028e.chunk.js"
   },
   {
-    "revision": "d6943a2a0ae9c28c9bcd",
-    "url": "/static/js/main.0181574f.chunk.js"
+    "revision": "7755e3642ea3b6c3f8f1",
+    "url": "/static/js/main.0d20c643.chunk.js"
   },
   {
     "revision": "188934486ca763f686b2",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "351080c365b4d7b6aa79d47a6bab01e9",
-    "url": "/static/media/fcmf_logo.351080c3.png"
+    "revision": "0598fc8b1294aa80411d0f1007764ee0",
+    "url": "/static/media/fcmf_logo.0598fc8b.png"
   },
   {
     "revision": "2936ce95f550e3feef7230ea543a4b60",
@@ -290,6 +290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f8e2f275256f4b1192bf792aa40ab67",
     "url": "/static/media/uff_logo.3f8e2f27.png"
+  },
+  {
+    "revision": "3a0fd67b7eaf71df7394c986b6f4716c",
+    "url": "/static/media/ufrgs_logo.3a0fd67b.png"
   },
   {
     "revision": "e38be62f2071ddabb97d14ba699ca618",
