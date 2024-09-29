@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "664e53e6a77fb853bde5ed957ba15d3f",
+    "revision": "71e6501730dc58e205a96e589825f475",
     "url": "/index.html"
   },
   {
-    "revision": "7755e3642ea3b6c3f8f1",
-    "url": "/static/css/main.37f7feb6.chunk.css"
+    "revision": "79502024b08b02335e43",
+    "url": "/static/css/main.70cedd6f.chunk.css"
   },
   {
-    "revision": "a41bf94a2fa3fea151af",
-    "url": "/static/js/2.e397028e.chunk.js"
+    "revision": "1d6f3483cb4f881c4d5c",
+    "url": "/static/js/2.be0cf5b0.chunk.js"
   },
   {
-    "revision": "7755e3642ea3b6c3f8f1",
-    "url": "/static/js/main.0d20c643.chunk.js"
+    "revision": "79502024b08b02335e43",
+    "url": "/static/js/main.1fe6a076.chunk.js"
   },
   {
     "revision": "188934486ca763f686b2",
@@ -56,12 +56,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/address_image.16559172.svg"
   },
   {
+    "revision": "8f57955368324e8db7411ee6759f99dc",
+    "url": "/static/media/ai-generated-8579960.8f579553.svg"
+  },
+  {
+    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
+    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
+  },
+  {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/static/media/animated_logo.dcd6dee2.svg"
   },
   {
     "revision": "2c0e3f6fe3790b3aa22b59d2315126d5",
     "url": "/static/media/biochimico-industria-farmaceutica.2c0e3f6f.jpg"
+  },
+  {
+    "revision": "e32891de9b1d5fc7f9252dbc5cf83209",
+    "url": "/static/media/blockchain-9027651.e32891de.svg"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -176,12 +188,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "0598fc8b1294aa80411d0f1007764ee0",
-    "url": "/static/media/fcmf_logo.0598fc8b.png"
+    "revision": "351080c365b4d7b6aa79d47a6bab01e9",
+    "url": "/static/media/fcmf_logo.351080c3.png"
   },
   {
-    "revision": "2936ce95f550e3feef7230ea543a4b60",
-    "url": "/static/media/feelingProud.2936ce95.svg"
+    "revision": "4ac9ed10666da61a5db5f918e378e96c",
+    "url": "/static/media/feelingProud.4ac9ed10.svg"
   },
   {
     "revision": "fce6080726685cabdb4f75a0d8018325",
@@ -202,6 +214,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6addc3fb6605480614b992ede8cd434",
     "url": "/static/media/googleAssistant.a6addc3f.svg"
+  },
+  {
+    "revision": "bbcdf13e94e4cf635aebdc982f5fe237",
+    "url": "/static/media/hosting-6661115.bbcdf13e.svg"
   },
   {
     "revision": "31fcdef3fb880ed52ef5d179585b7476",
@@ -236,6 +252,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
+    "revision": "817a5784e9f3e804290d973fca2a59ca",
+    "url": "/static/media/machine-576435.817a5784.svg"
+  },
+  {
+    "revision": "17b90e67858b6cc16e4a2b3691765a50",
+    "url": "/static/media/man-2700445.17b90e67.svg"
+  },
+  {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
@@ -244,8 +268,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/muffito_logo.069938a8.png"
   },
   {
+    "revision": "71c4e6e0be5cd2847a2a8b13a9ea4721",
+    "url": "/static/media/network-7174082.71c4e6e0.svg"
+  },
+  {
+    "revision": "30db1e81e56303fa73fc9d908944e613",
+    "url": "/static/media/neuron-305772.30db1e81.svg"
+  },
+  {
+    "revision": "d2b55f0cc1dede22d8bda59a8d487d9e",
+    "url": "/static/media/neuron-306034.d2b55f0c.svg"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "/static/media/nptel_logo.95a12a2b.png"
+  },
+  {
+    "revision": "e909ef64f46b94cb89a7a15e9506e202",
+    "url": "/static/media/plumbing-3000935.e909ef64.svg"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -254,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",
     "url": "/static/media/programmer.5faf790b.svg"
+  },
+  {
+    "revision": "4ac9ed10666da61a5db5f918e378e96c",
+    "url": "/static/media/programming-8450423.4ac9ed10.svg"
   },
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
@@ -266,6 +310,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "724c5d75a52a77164cf2700c5fb51f30",
     "url": "/static/media/research.724c5d75.jpg"
+  },
+  {
+    "revision": "dc74e9dc8ff77bea01120000a3e0135d",
+    "url": "/static/media/seo-7397379.dc74e9dc.svg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
@@ -294,10 +342,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3a0fd67b7eaf71df7394c986b6f4716c",
     "url": "/static/media/ufrgs_logo.3a0fd67b.png"
-  },
-  {
-    "revision": "e38be62f2071ddabb97d14ba699ca618",
-    "url": "/static/media/ufrgs_logo.e38be62f.jpg"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
