@@ -53,3 +53,17 @@ Find out more about deployment here:
 ```
 npm start
 ```
+
+
+
+#### Build
+
+ - Empty local repository
+```
+git clone https://github.com/stra-uss/stra-uss.github.io.git
+```
+ - Source Code on Local repositoty
+```
+git pull
+git push
+```
